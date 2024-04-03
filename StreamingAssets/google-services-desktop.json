@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "613385090021",
+    "project_id": "proseniortv-19e0e",
+    "storage_bucket": "proseniortv-19e0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613385090021:android:a6d8f2d862a582faffb50c",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.ProSeniorTVUnity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613385090021-r3lt1562d0jc1tguftchauqbt1ut770s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB93yf2x--MVQKd9T6OwdWWjGyhIFt6Huc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613385090021-r3lt1562d0jc1tguftchauqbt1ut770s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
